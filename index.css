@@ -1,5 +1,5 @@
 img {
-    height: 400px;
+    height: 350px;
     width: 400px;
     border: solid;
     border-radius: 20px;
@@ -10,5 +10,24 @@ body {
     background-color: black;
     color: white;
     margin: 100;
-    background-image:X9oH1cc_d.png ;
+    background-image:X9oH1cc_dpng;
+}
+
+a:link {
+    color: white;
+    
+}
+
+a:visited {
+    color: purple;
+}
+
+input {
+    margin-top: 6;
+}
+
+.gram {
+    height: 4;
+    width: 5;
+    margin-left: 5px;
 }

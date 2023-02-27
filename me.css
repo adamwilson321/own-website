@@ -1,0 +1,28 @@
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: purple;
+}
+
+body {
+    text-align: center;
+    background-color: 
+    color  white;
+}
+
+img {
+    height: 130px;
+    border: solid;
+    border-radius: 50px;
+}
+
+.arriva {
+    background-color: aqua;
+}
+
+.express {
+    background-color: darkblue;
+    color: beige;
+}
